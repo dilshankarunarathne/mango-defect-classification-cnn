@@ -161,3 +161,4 @@ cython_debug/
 *.png
 *.jpeg
 new_mango.h5
+accuracy-check.rar
